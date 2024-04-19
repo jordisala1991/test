@@ -1,5 +1,11 @@
 # test
 
+## 1.3.0
+
+### Minor Changes
+
+- b398dd6: ASda2
+
 ## 1.2.0
 
 ### Minor Changes
